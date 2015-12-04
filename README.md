@@ -18,3 +18,5 @@ The project is an indie game designed by team Support ASU- Game Committee
 ##Copyrights:
 You may not use the provided code without refering to its original source and provide the current document within.
 Refer to the license included within the project folder
+
+### Refer to the wiki for game view samples
